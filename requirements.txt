@@ -1,5 +1,8 @@
 streamlit
-joblib
-scikit-learn
-pandas
 numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+joblib
+sheryanalysis==0.1.0
